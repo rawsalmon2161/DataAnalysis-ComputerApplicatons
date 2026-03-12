@@ -9,3 +9,5 @@ No, interpretation and context matters. Ex. Increase in gun deaths does not equa
 The value is in supporting decision making and finding solutions to questions. Ex. Why does solar output increase or diminish during different times of the day.
 ## Q5. So, what is "Data Analysis"?
 The process of cleaning, inspecting and interpreting data. Ex. Analysis of bio metrics from studies on new drugs.
+
+https://colab.research.google.com/drive/1xUS7VZIlfK8N2JH947Fkn7Za7W2d4466?usp=sharing
