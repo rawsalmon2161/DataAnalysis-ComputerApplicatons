@@ -31,9 +31,11 @@ Lab 04: Updating Existing Dictionary Values
 Change the value associated with an existing dictionary key.
 
 Lab 05: Extracting Dictionary Keys .keys()
+
 Retrieve all keys from a dictionary using the .keys() method.
 
 Lab 06: Extracting Dictionary Values .values()
+
 Retrieve all values from a dictionary using the .values() method.
 
 
