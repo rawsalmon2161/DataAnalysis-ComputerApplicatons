@@ -16,6 +16,7 @@ https://colab.research.google.com/drive/1xUS7VZIlfK8N2JH947Fkn7Za7W2d4466?usp=sh
 
 Lab 01: Creating a Basic Dictionary (Key-Value pairs)
 Create a dictionary using keys and values to store related data.
+
 Lab 02: Reading from a Dictionary
 Access dictionary values using their keys.
 Lab 03: Adding New Keys to a Dictionary
