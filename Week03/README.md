@@ -15,15 +15,19 @@ The process of cleaning, inspecting and interpreting data. Ex. Analysis of bio m
 https://colab.research.google.com/drive/1xUS7VZIlfK8N2JH947Fkn7Za7W2d4466?usp=sharing
 
 Lab 01: Creating a Basic Dictionary (Key-Value pairs)
+
 Create a dictionary using keys and values to store related data.
 
 Lab 02: Reading from a Dictionary
+
 Access dictionary values using their keys.
 
 Lab 03: Adding New Keys to a Dictionary
+
 Insert new key-value pairs into an existing dictionary.
 
 Lab 04: Updating Existing Dictionary Values
+
 Change the value associated with an existing dictionary key.
 
 Lab 05: Extracting Dictionary Keys .keys()
@@ -47,6 +51,7 @@ Explore True/False logic using basic Boolean operations.
 
 Lab 05: Comparison Logic
 Use comparison operators to evaluate relationships between values.
+
 Lab 06: Basic If-Else Branch
 Execute different code depending on a condition.
 
@@ -87,38 +92,48 @@ Lab 18: Boolean Sensation
 Practice using Boolean variables in decision-making.
 
 Lab 19: The Modulo Alert
-Use modulo to automate.
+Use modulo to detect even or odd numbers.
 
 Lab 20: Range Checker
 Check if a value falls within a specific range.
 
 
 Lab 21: Nested Logic - Loan Eligibility
+
 Use nested if statements to check multiple eligibility conditions like age, income, and credit.
 
 Lab 22: Precision Tax Bracket
+
 Calculate tax using progressive brackets with conditional logic.
 
 Lab 23: String Clean & Logic Combine
+
 Clean strings using strip() and lower() before applying logical checks.
 
 Lab 24: List Filter Simulator
+
 Loop through a list and perform actions only when conditions are met.
 
 Lab 25: Password Strength Engine
+
 Evaluate password strength using length, uppercase letters, and digits.
 
 Lab 26: The "None" Safety Net
+
 Check for None values to handle missing or undefined data safely.
 
 Lab 27: Division by Variable
+
 Prevent division errors by checking variables are not zero.
 
 Lab 28: Complex Path Builder
+
 Create dynamic filenames and safely build file paths using system information.
 
 Lab 29: Logical Simplification
+
 Use a ternary operator for concise one-line conditional expressions.
 
 Lab 30: Structural Integration Test
+
 Combine conditions, validation, and logic to produce a final program decision.
